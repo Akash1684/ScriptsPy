@@ -13,7 +13,7 @@ def main():
 
     title = trend_box.find('h3', {'class': 'yt-lockup-title'}).find('a').text
 
-    cook = cookies.SimpleCookie()
+    cook = cookies.SimpleCookie()        #to check whether the trending video is already downloaded or not
     for a in trend_box.find_all('a', href=True):
         link = a['href']
         break;
