@@ -37,7 +37,15 @@ def fetch_info():
 def send_mail(Subject,Content):
     To = ['TO_EMAIL_ID']
     From = 'FROM_EMAIL_ID'
-
+    
+    '''
+    Google blocks sign-in attempts from apps which do not use modern security standards (mentioned on their support page). 
+    You can however, turn on/off this safety feature by going to the link below:
+    Go to this link and select Turn On
+    https://www.google.com/settings/security/lesssecureapps
+    
+    '''
+    
     Content=Content.encode('utf-8') #smtp does not support UNICODE
     message = 'Subject: %s\n\n%s' % (Subject, Content)
     mail = smtplib.SMTP('smtp.gmail.com', 587)
