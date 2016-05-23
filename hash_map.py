@@ -23,11 +23,13 @@ def lookup(string):
 def calculate_hash_value(string):
         """Helper function to calulate a
         hash value from a string."""
+        
+        # hash_value is calculated as ** unicode(A)*100 + unicode(h) **
+        
         return ord(string[0])*100+ord(string[1])
 
 
 # Setup
-
 print (calculate_hash_value('Akash'))
 
 print (lookup('Akash'))
