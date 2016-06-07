@@ -5,7 +5,8 @@ A collection of small snippets in python for doing general purpose activities. P
 * [vocal_news](https://github.com/Akash1684/ScriptsPy/blob/master/vocal_news.py) : Vocal news fetch the top stories from [Google News](https://news.google.co.in/) and convert it into the MP3 file.<br>**Dependencies** : BeautifulSoup and gTTS.<br></br>
 * [fcb_update.py](https://github.com/Akash1684/ScriptsPy/blob/master/fcb_update.py) : Send email notification to the subscribers about the upcoming match of FC Barcelona.<br></br>
 * [youtube_trend.py](https://github.com/Akash1684/ScriptsPy/blob/master/youtube_trend.py) : Download first trending video on youtube using browser automation.<br></br>
-* [hash_map.py](https://github.com/Akash1684/ScriptsPy/blob/master/hash_map.py) : A simple hash map implementation in python
+* [hash_map.py](https://github.com/Akash1684/ScriptsPy/blob/master/hash_map.py) : A simple hash map implementation in python<br></br>
+* [video_to_audio.py](https://github.com/Akash1684/ScriptsPy/blob/master/video_to_audio.py) : Script to convert video file to audio (.wav) file (Unix only).
 
 
 This repo is under active development and if you have any interesting pythonic idea or you are facing any problem then email me, I will solve and publish them as soon as possible.
