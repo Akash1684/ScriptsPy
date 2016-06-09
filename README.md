@@ -7,6 +7,7 @@ A collection of small snippets in python for doing general purpose activities. P
 * [youtube_trend.py](https://github.com/Akash1684/ScriptsPy/blob/master/youtube_trend.py) : Download first trending video on youtube using browser automation.<br></br>
 * [hash_map.py](https://github.com/Akash1684/ScriptsPy/blob/master/hash_map.py) : A simple hash map implementation in python<br></br>
 * [video_to_audio.py](https://github.com/Akash1684/ScriptsPy/blob/master/video_to_audio.py) : Script to convert video file to audio (.wav) file (Unix only).
+* [pnr_status.py](https://github.com/Akash1684/ScriptsPy/blob/master/pnr_status.py) : Given the PNR of the railway ticket this script checks the current status and send it in form of text message. (Optional-can be scheduled)
 
 
 This repo is under active development and if you have any interesting pythonic idea or you are facing any problem then email me, I will solve and publish them as soon as possible.
