@@ -37,7 +37,7 @@ def getstatus(pnr):
 
 
 def main():
-    msg=getstatus("8647677881")
+    msg=getstatus("*****PNR******")
     textmyself(msg)  #send message to mobile
     print(msg)
 
