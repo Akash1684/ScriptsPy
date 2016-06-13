@@ -6,7 +6,7 @@ A collection of small snippets in python for doing general purpose activities. P
 * [fcb_update.py](https://github.com/Akash1684/ScriptsPy/blob/master/fcb_update.py) : Send email notification to the subscribers about the upcoming match of FC Barcelona.<br></br>
 * [youtube_trend.py](https://github.com/Akash1684/ScriptsPy/blob/master/youtube_trend.py) : Download first trending video on youtube using browser automation.<br></br>
 * [hash_map.py](https://github.com/Akash1684/ScriptsPy/blob/master/hash_map.py) : A simple hash map implementation in python<br></br>
-* [video_to_audio.py](https://github.com/Akash1684/ScriptsPy/blob/master/video_to_audio.py) : Script to convert video file to audio (.wav) file (Unix only).
+* [video_to_audio.py](https://github.com/Akash1684/ScriptsPy/blob/master/video_to_audio.py) : Script to convert video file to audio (.wav) file (Unix only).<br></br>
 * [pnr_status.py](https://github.com/Akash1684/ScriptsPy/blob/master/pnr_status.py) : Given the PNR of the railway ticket this script checks the current status and send it in form of text message. (Optional-can be scheduled)
 
 
