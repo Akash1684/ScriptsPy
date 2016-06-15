@@ -4,10 +4,10 @@ import time
 from bs4 import  BeautifulSoup
 
 def textmyself(message):
-    sid = "AC2943bced271470a0b31a328d7266bba0"
-    token = "34845e7364b55d067fe4b00c75d7585f"
-    myNumber = ["+919454028991"]
-    twilioNumber = "+12318034148"
+    sid = "##################"
+    token = "####################"
+    myNumber = ["#################"]
+    twilioNumber = "#################"
     twilioClient=TwilioRestClient(sid,token)
     for num in myNumber:
         twilioClient.messages.create(body=message,from_=twilioNumber,to=num)
