@@ -8,9 +8,9 @@ browser.visit('https://internet.iitb.ac.in/index.php')
 time.sleep(3)
 print("OPENED")
 user = browser.find_by_name('uname')
-user.fill(120040016)
+user.fill(########)
 pas = browser.find_by_name('passwd')
-pas.fill(28091994)
+pas.fill(#########)
 
 browser.find_by_name('button').click()
 
