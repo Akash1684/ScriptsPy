@@ -9,7 +9,7 @@ A collection of small snippets in python for doing general purpose activities. P
 * [video_to_audio.py](https://github.com/Akash1684/ScriptsPy/blob/master/video_to_audio.py) : Script to convert video file to audio (.wav) file (Unix only).<br></br>
 * [pnr_status.py](https://github.com/Akash1684/ScriptsPy/blob/master/pnr_status.py) : Given the PNR of the railway ticket this script checks the current status and send it in form of text message. (*Optional-can be scheduled*)<br></br>
 * [autopot.py](https://github.com/Akash1684/ScriptsPy/blob/master/autopot.py) : Automating the signing-in procedure of internet access and subsequently opening the wifi hotspot (solving the boring manual process).<br></br>
-* [ext_exchange.py](https://github.com/Akash1684/ScriptsPy/blob/master/ext_exchange.py) : A naive script to exchange the extension of files in a directory.
+* [ext_exchange.py](https://github.com/Akash1684/ScriptsPy/blob/master/ext_exchange.py) : A naive script to exchange the extension of files in a directory.<br></br>
 * [whatsapp_spam.py](https://github.com/Akash1684/ScriptsPy/blob/master/whatsapp_spam.py) : Spam your friends via WhatsApp web.
 
 This repo is under active development and if you have any interesting pythonic idea or you are facing any problem then email me, I will solve and publish them as soon as possible.
